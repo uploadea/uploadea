@@ -216,13 +216,13 @@ Uploadea Virtual VISA Card launching by 1st May 2021 and And you can easily pay 
 </div>
 
 # TOKEN DISTRIBUTION PLAN
-<div style="margin: 5px auto; width: 80%;" >
+<div style="margin: 5px auto;" >
 <img src="images/Screenshot_27.png" width="100%" style="border-radius:10px;">
 </div>
 
 
 # ROADMAP OF UPLOADEA
-<div style="margin: 5px auto; max-width: 80%;" >
+<div style="margin: 5px auto;" >
 <img src="images/Screenshot_28.png" width="100%" style="border-radius:10px;">
 </div>
 
