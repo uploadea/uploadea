@@ -238,7 +238,7 @@ The Uploadea website is a licensed website with customized hallmarks for all cli
 ## REFERRAL REWARDS
 Reference is an integral, essential, and the most important part of the planning of Uploadea becauseUploadea is trying to render maximum financial services for those who trust its project and also refer it to their near ones and strive to secure their future through the project.
 <div align="center">
-<img src="images/Screenshot_30.png" style="margin: 0 auto;width: 460px;padding: 10px 0px">
+<img src="images/Screenshot_30.png" style="width: 460px;padding: 10px 0px">
 </div>
 
 ## BRANDING
