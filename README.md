@@ -208,16 +208,18 @@ JavaWallet is a mnemonic-based highly secured mobile wallet to store crypto asse
 <div align="center">
   <img width="460px" src="images/Screenshot_25.png">
 </div>
-<img width="460px" src="images/javawallet1.png" align="left">
+<img width="460px" src="images/javawallet1.jpg" align="left">
 <div align="center">
-  <img width="460px" src="images/javawallet2.png">
+  <img width="460px" src="images/javawallet2.jpg">
 </div>
-<img width="460px" src="images/javawallet3.png" align="right">
+<img width="460px" src="images/javawallet3.jpg" align="right">
+
 ### Uploadea Virtual VISA Card
 Uploadea Virtual VISA Card launching by 1st May 2021 and And you can easily pay with it.
-<div align="center">
-  <img width="460px" src="images/Screenshot_26.png">
-</div>
+
+[comment]: <> (This is a comment, it will not be included) <div align="center">
+[comment]: <> (This is a comment, it will not be included)  <img width="460px" src="images/Screenshot_26.png">
+[comment]: <> (This is a comment, it will not be included) </div>
 
 <div align="center">
   <img width="250px" src="images/Screenshot_35.png">
