@@ -53,7 +53,7 @@ Table of Contents
     * [The Logic of Token Burning](#the-logic-of-token-burning)
   * [NOTABLE FEATURE OF UPL TOKEN](#notable-feature-of-upl-token)
     * [Javawallet](#javawallet)
-    * [Uploadea Visa Card](#uploadea-visa-card)
+    * [Uploadea Virtual Visa Card](#uploadea-virtual-visa-card)
   * [TOKEN DISTRIBUTION PLAN](#token-distribution-plan)
   * [ROADMAP](#roadmap)
   * [MARKET STRATEGY](#market-strategy)
@@ -208,11 +208,19 @@ JavaWallet is a mnemonic-based highly secured mobile wallet to store crypto asse
 <div align="center">
   <img width="460px" src="images/Screenshot_25.png">
 </div>
-
+<img width="460px" src="images/javawallet1.png" align="left">
+<div align="center">
+  <img width="460px" src="images/javawallet2.png">
+</div>
+<img width="460px" src="images/javawallet3.png" align="right">
 ### Uploadea Virtual VISA Card
 Uploadea Virtual VISA Card launching by 1st May 2021 and And you can easily pay with it.
 <div align="center">
   <img width="460px" src="images/Screenshot_26.png">
+</div>
+
+<div align="center">
+  <img width="250px" src="images/Screenshot_35.png">
 </div>
 
 # TOKEN DISTRIBUTION PLAN
