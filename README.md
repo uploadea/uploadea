@@ -6,7 +6,7 @@
 
 Simple & Powerful Uploadea is Amazingly easy to Use where to Store Your Data & Save Your Countless Time.
 
-[<img src="https://uploadea.com/adv/banner1.png"/>](https://uploadea.com)
+[<img src="images/banner2.png"/>](https://uploadea.com)
 
 
 Uploadea cloud storage software provides online Data file Sync for Free and Paid Version. At Uploadea, Cloud Storage Backup is unlimited and Data Disaster Recovery.
